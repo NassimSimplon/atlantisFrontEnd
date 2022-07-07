@@ -1,0 +1,28 @@
+.btnAdd{
+    display: flex;
+    justify-content: flex-end;
+    direction:right;
+    
+    color: white;
+  background: #f5593d;
+  padding: 8px 20px;
+    border-radius: 8px;
+  
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.styleh1{
+    width: 16%;
+    color: black;
+    text-align: center;
+    /* */
+    font-size:calc(20px + 0.1vw);
+    padding-top:4rem;
+    padding-bottom:.4rem;
+}
+.btn-success {
+    background-color: #0ab39c;
+    border-color: #0ab39c;
+    color: #fff;
+}
